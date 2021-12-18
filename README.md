@@ -34,7 +34,7 @@ This is a very time consuming task as after each increase it will take prolonged
  These "Special/Settlemnet's/Military/Medical/Trader/Builds/Facilities, shall be referred too as Data from hence forth" are built for a Dayz Chernaurus server.
  Under no circumstances shall any person/s receive monetary gains from the distribution "sale,loan,lease,purchase or any other form of distribution means" of this data.
  Furthermore, "killcarter-gaming aka killcarter" shall not be held liable in any form for the distribution of altered or fraudulant forms of this data.
- all data which is posted/published by "killcarter-gaming aka killcarter" which is then altered/changed in any way or form by another person,
- shall then see that other person assume all responsibility and be held liable for any and all changes they have done to the said data.
+ all data which is posted/published by "killcarter-gaming aka killcarter" which is then altered/changed in any way or form by another person/s,
+ shall then see that other person/s assume all responsibilities and be held liable for any and all changes they have done to the said data.
  
 
