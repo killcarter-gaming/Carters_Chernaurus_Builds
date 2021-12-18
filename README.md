@@ -7,8 +7,8 @@
 
 Hey folks,
 
-I built these build's simply to help some folks spice there Dayz srver up and to add more of a challenging aspect to certain location upon the Dayz maps that we all know and love/ish!
-please be care ful if adding to many builds/settlement's to the one server as too many added structures being addeed to a server can result in a negative effect upon the games central economy/ce, in order to address this issue the central economy/ce will need to be reconfigured to allow for the increase in possible loot spawn locations within said added structures.
+I built these build's simply to help some folks spice there Dayz servers up a little and to add more of a challenging aspect to certain locations upon the Dayz maps that we all know and love/ish!
+please be careful if adding too many builds/settlement's too the one server as too many added structures being addeed to a server can result in a negative effect upon the games central economy/ce, in order to address this issue the central economy/ce will need to be reconfigured to allow for the increase in possible loot spawn locations within said added structures.
 There are many tools out there to help with the central economy/ce within the game or it can be done manually but will take far more time than using said tools. 
 to do it manually, 
 
@@ -18,14 +18,14 @@ to do it manually,
 
 #Step-C. Tiers through 1 to 4 should have their relevant items increased in rlation to the tier that the setlement has been placed within, which is lacking loot spawning within it.
 
-#Step-D. Structures that have been added have a specific type attributed to them which relates to the type of structure they are "ie... Medical,Military..ect." take note of the type of structures lacking loot and increase the relevant items which would be associated with those type of building's "ie..Medical=Bandage's,rag's...ect. Military=Weapon's,Ammo..ect"
+#Step-D. Structures that have been added have a specific "tag" attributed to them which relates to the type of structure they are "ie... Medical,Military..ect." take note of the type of structures which you have added that contain no loot and increase the relevant items which would be associated with those type of building's "ie..Medical=Bandage's,rag's...ect / Military=Weapon's,Ammo..ect". simply make small increases to the nominal figures for the items which contain the categories, tags, and values\tiers for the added structures that you have added and their position within the Tiers system applied to "your" map!
 
-#Step-E. rejoin the server and evaluate what effect your changes have had upon the economy and gage as best you can how much more of an increase should be attritud to the items nominal value in order to see an improvement.
+#Step-E. rejoin the server and set up camp.... you will be there a long time, the central economy of the game takes a very long time to cycle through the loot pool in order to see an in game effect from your changes "this time frame is effected by the lifetime parameter associated with each item within your mission folders types.xml file. Once enough time has passed and you are seeing new loot in the locations you have been watching since joining. now you need to try to evaluate what effect your changes have had upon the games economy and gage as best you can how much more of an increase should be attributed to the items nominal values in order to see another improvement upon the overall loot quantity.
 
 #Step-F. Repeat the previous steps until you reach a satisfactory level of loot spawning withing the structures you have placed.
 
 #Reminder,
-This is a very time consuming task as after each increase it will take prolonged periods of time in order for the loot within the games ecomomy to cycle through before any eccect which was made to become evident within the world. if possible it is best to use an Economy editor tool which will complete the task in a shorter time frame. doing this task manually may take some time depending upon the overall figures of loot at which your types file contained including added mods! 
+This is a very time consuming task as after each increase it will take prolonged periods of time in order for the loot within the games ecomomy to cycle through before any changes which have been made to become evident within the world. if possible it is best to use an Economy editor tool which will complete the task in a shorter time frame. doing this task manually may take some time depending upon the overall figures of loot which your types.xml file contains "including added mods"! 
 
 
 #LICENCED Under ADPLSA
