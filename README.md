@@ -5,7 +5,8 @@
 
 #Brief summary
 
-Hey,
+Hey folks,
+
 I built these build's simply to help some folks spice there Dayz srver up and to add more of a challenging aspect to certain location upon the Dayz maps that we all know and love/ish!
 please be care ful if adding to many builds/settlement's to the one server as too many added structures being addeed to a server can result in a negative effect upon the games central economy/ce, in order to address this issue the central economy/ce will need to be reconfigured to allow for the increase in possible loot spawn locations within said added structures.
 There are many tools out there to help with the central economy/ce within the game or it can be done manually but will take far more time than using said tools. 
