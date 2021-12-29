@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+<!-- NORTHEAST_Airfield_Medical_Facility_ALPHA -->
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12403.973633" z="12490.797852" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12355.965820" z="12456.198242" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12250.260742" z="12484.821289" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12204.000000" z="12520.584961" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12212.794922" z="12473.035156" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12409.377930" z="12586.393555" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12363.140625" z="12652.289063" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12266.340820" z="12704.520508" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12207.593750" z="12696.293945" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12072.823242" z="12694.022461" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12017.899414" z="12639.301758" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12098.536133" z="12564.156250" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12131.251953" z="12661.510742" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12154.290039" z="12651.162109" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12166.926758" z="12632.171875" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12197.846680" z="12625.622070" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12265.404297" z="12597.465820" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12322.079102" z="12567.944336" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12313.478516" z="12539.292969" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="12295.388672" z="12609.150391" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12052.985352" z="12659.887695" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12234.959961" z="12713.024414" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12384.875977" z="12636.345703" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12363.754883" z="12482.108398" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12239.916016" z="12515.861328" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12318.000000" z="12551.664063" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12280.377930" z="12610.718750" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12201.852539" z="12623.994141" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12173.271484" z="12633.946289" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="12139.600586" z="12657.388672" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12253.681641" z="12639.720703" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12128.527344" z="12662.411133" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12140.834961" z="12713.572266" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12090.453125" z="12615.183594" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12156.087891" z="12560.950195" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12406.022461" z="12522.678711" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12313.741211" z="12680.296875" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12285.767578" z="12625.002930" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12323.459961" z="12548.350586" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12256.010742" z="12569.710938" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12193.162109" z="12625.774414" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="12161.587891" z="12640.581055" r="60"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="12237.916" z="12512.868" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="12158.891" z="12563.955" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="12366.883" z="12485.198" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="12289.578" z="12624.020" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="12135.586" z="12656.382" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="12165.181" z="12641.585" r="40"/>
+    </territory>
+<!-- NorthWest_Airfield_Medical_Facility_ALPHA -->
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4871.342" z="9653.896" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4946.878" z="9566.370" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4735.244" z="9577.721" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4819.753" z="9521.248" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4955.64" z="9425.97" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4927.869" z="9484.563" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4946.376465" z="9529.607422" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4910.947754" z="9513.863281" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5014.425781" z="9520.112305" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5031.087402" z="9479.088867" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4971.490723" z="9485.070313" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4843.348633" z="9566.564453" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4811.287109" z="9469.646484" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4866.835449" z="9441.767578" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4797.339355" z="9561.619141" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4775.417480" z="9542.555664" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4977.234863" z="9690.666016" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4739.234375" z="9674.885742" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4734.685059" z="9618.863281" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4792.356934" z="9645.927734" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4941.961426" z="9637.981445" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4902.135254" z="9693.128906" r="60"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4953.299316" z="9472.224609" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4861.410156" z="9531.480469" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4781.365234" z="9520.888672" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="5007.453125" z="9605.460938" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4904.822754" z="9552.888672" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4958.644531" z="9423.981445" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4738.222168" z="9573.719727" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4944.896973" z="9562.375000" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4924.935059" z="9486.583984" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4824.661133" z="9517.250977" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4866.251465" z="9645.933594" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4934.804688" z="9426.911133" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4920.106934" z="9483.608398" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4964.029785" z="9504.329102" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4947.143555" z="9545.841797" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5002.155273" z="9552.436523" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4929.385742" z="9562.731445" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4896.775391" z="9546.370117" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4862.426270" z="9588.591797" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4944.239746" z="9634.433594" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4946.065918" z="9629.760742" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4823.570313" z="9677.993164" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4896.519043" z="9552.725586" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4916.904297" z="9514.086914" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4927.655273" z="9487.331055" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4972.882324" z="9485.280273" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4997.040039" z="9449.380859" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4906.544922" z="9440.280273" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4859.708984" z="9532.381836" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4828.697754" z="9513.761719" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4777.338379" z="9540.740234" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4857.076660" z="9712.400391" r="60"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4934.808" z="9426.913" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4896.513" z="9552.726" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5002.153" z="9552.433" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4906.542" z="9440.283" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4944.236" z="9634.434" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4777.339" z="9540.744" r="60"/>
+    </territory>
+<!-- NorthWest_Airfield_Medical_Facility_BRAVO -->
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4426.727539" z="10631.699219" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4389.367188" z="10572.897461" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4381.560547" z="10625.833984" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4502.234375" z="10664.347656" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4483.072754" z="10619.641602" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4492.752930" z="10609.138672" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4456.399902" z="10476.487305" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4471.482422" z="10383.720703" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4551.276367" z="10300.506836" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4445.135254" z="10272.406250" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4523.371094" z="10232.780273" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4593.501465" z="10204.410156" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4621.075684" z="10139.371094" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4563.160645" z="10034.936523" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4682.925781" z="10052.913086" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4752.022949" z="10017.291992" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4772.372070" z="10058.723633" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4813.298828" z="10120.875977" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4714.621094" z="10146.869141" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4698.657227" z="10229.473633" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4678.364258" z="10212.159180" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4702.461914" z="10189.473633" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4679.514648" z="10356.252930" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4634.456543" z="10336.862305" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4606.233398" z="10358.776367" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4776.483398" z="10287.392578" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4739.749023" z="10396.141602" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4699.563477" z="10435.038086" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4591.995605" z="10546.916992" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4574.168457" z="10404.375000" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4540.911133" z="10454.323242" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4518.889160" z="10495.158203" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4505.854004" z="10519.318359" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4477.874512" z="10557.492188" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4559.408691" z="10476.405273" r="60"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4623.237793" z="10487.564453" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4765.729004" z="10347.302734" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4695.025391" z="10309.476563" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4733.000488" z="10170.500977" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4383.649414" z="10390.080078" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4538.755371" z="10616.266602" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4401.325684" z="10514.730469" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4729.516113" z="10210.052734" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4478.830566" z="10610.317383" r="30"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4503.950684" z="10591.114258" r="30"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4528.338867" z="10537.426758" r="30"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4545.105469" z="10511.660156" r="30"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4459.672852" z="10666.859375" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4475.275879" z="10565.407227" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4416.691406" z="10571.935547" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4472.268555" z="10463.737305" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4500.134766" z="10603.782227" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4484.666504" z="10613.504883" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4514.853516" z="10498.652344" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4566.456055" z="10416.584961" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4527.276367" z="10345.280273" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4631.637207" z="10346.247070" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4693.081543" z="10319.437500" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4654.180664" z="10103.295898" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4783.454102" z="10147.228516" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4719.228516" z="10160.261719" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4711.665039" z="10196.865234" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4761.660645" z="10357.732422" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4703.298340" z="10211.687500" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4726.041016" z="10153.837891" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4786.844727" z="10088.524414" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4689.315430" z="10088.132813" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4634.407227" z="10173.262695" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4654.789063" z="10270.886719" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4658.677734" z="10355.565430" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4595.258301" z="10375.005859" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4427.627441" z="10411.780273" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4517.938965" z="10501.231445" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4478.196777" z="10615.250977" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4477.257324" z="10620.604492" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4428.930176" z="10656.406250" r="40"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4485.408203" z="10550.454102" r="40"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4458.852" z="10664.375" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4633.207" z="10342.070" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4764.445" z="10359.422" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4724.416" z="10150.381" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4599.301" z="10372.859" r="40"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4488.403" z="10552.402" r="40"/>
+    </territory>
+<!-- SouthWest_Airfield_Medical_Facility_ALPHA -->
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4985.731445" z="2380.599854" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5023.272949" z="2330.496826" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5126.878418" z="2251.341064" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5127.011230" z="2308.474854" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5132.408691" z="2353.678467" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5072.071777" z="2359.418945" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5065.743164" z="2412.308838" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5055.593262" z="2523.648438" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4940.253906" z="2627.645752" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4872.553223" z="2551.081299" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4871.358398" z="2435.435059" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4909.168945" z="2389.726318" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5017.234863" z="2458.614746" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4995.610840" z="2481.392822" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4973.397949" z="2510.957275" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="4949.396484" z="2539.893799" r="60"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4925.536133" z="2570.579834" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4918.656738" z="2564.261963" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4907.500488" z="2575.602783" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="4917.146973" z="2581.967529" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4920.424316" z="2576.145020" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="4953.609863" z="2536.111816" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5010.759766" z="2476.110352" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5044.447266" z="2486.389404" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5086.744141" z="2413.223145" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5077.828613" z="2380.485107" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="5015.817871" z="2464.174072" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4969.890137" z="2512.935547" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4949.621094" z="2537.249023" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="4913.111328" z="2568.939453" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="5006.307617" z="2528.933838" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="5099.270996" z="2428.316162" r="60"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4921.216" z="2576.120" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5042.266" z="2486.404" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5074.613" z="2380.107" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5016.871" z="2464.072" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="4911.328" z="2568.453" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5096.796" z="2428.162" r="60"/>
+    </territory>
+<!-- SouthWest_Airfield_Medical_Facility_Bravo -->
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5132.875488" z="2301.252441" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5141.825684" z="2308.694092" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5151.704590" z="2298.173584" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5142.268066" z="2290.599854" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5115.913086" z="2256.047607" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5089.526855" z="2342.135010" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5130.013672" z="2371.625732" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5182.073730" z="2374.984131" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5267.374023" z="2257.424072" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5285.392090" z="2181.336914" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5309.367188" z="2117.376953" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5255.950684" z="2122.282471" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5243.853027" z="2187.587158" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5201.683105" z="2231.516113" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5173.771484" z="2263.304932" r="60"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="5108.833984" z="2356.838867" r="60"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="5081.986816" z="2246.701416" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="5208.645020" z="2152.893066" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="5221.820313" z="2324.365967" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="5146.571777" z="2218.748779" r="60"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="5070.130371" z="2389.621094" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5137.319824" z="2296.545410" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5174.623047" z="2264.677002" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5196.327148" z="2240.854004" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5223.028320" z="2203.336670" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5267.589355" z="2155.481934" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5170.608398" z="2337.989990" r="60"/>
+        <zone name="InfectedNBC" smin="2" smax="3" dmin="4" dmax="6" x="5076.619629" z="2360.671143" r="60"/>
+    </territory>
+	<territory color="1925774598">
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="5135.636230" z="2243.110352" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="5163.714355" z="2213.750977" r="60"/>
+        <zone name="InfectedNBCYellow" smin="2" smax="3" dmin="4" dmax="6" x="5179.001465" z="2256.983887" r="30"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5137.824" z="2297.410" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5223.320" z="2206.670" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5076.129" z="2364.143" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5135.230" z="2242.352" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5163.355" z="2214.977" r="60"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="4" dmax="6" x="5179.465" z="2258.887" r="30"/>
+    </territory>
+<!-- Tisy_Airfield_Alpha -->
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1012.148560" z="14674.380859" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1131.709839" z="14610.375977" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1142.167236" z="14535.580078" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1214.730225" z="14541.157227" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1252.974609" z="14509.540039" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1305.419800" z="14468.100586" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1341.619141" z="14456.135742" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1361.495972" z="14529.927734" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1404.504761" z="14524.156250" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1419.590454" z="14471.070313" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1466.648438" z="14488.356445" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1475.163574" z="14451.308594" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1597.167847" z="14425.555664" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1644.757568" z="14428.737305" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1610.139771" z="14370.549805" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1698.240967" z="14351.056641" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1666.462891" z="14332.179688" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1752.323608" z="14306.355469" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1679.550903" z="14273.628906" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1717.435303" z="14241.755859" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1625.728149" z="14220.292969" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1753.987061" z="14135.547852" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1684.913208" z="14102.571289" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1683.801880" z="14030.778320" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1665.760254" z="13983.744141" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1697.759888" z="13947.560547" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1719.007813" z="13883.128906" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1776.673340" z="13862.580078" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1802.748413" z="13808.650391" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1704.539429" z="13848.648438" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1765.030029" z="13668.331055" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1608.171021" z="13586.879883" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1559.191895" z="13587.153320" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1528.197510" z="13608.920898" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1483.969727" z="13559.123047" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1480.388672" z="13667.510742" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1403.794922" z="13658.470703" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1595.380981" z="14001.245117" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1564.333130" z="14067.755859" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1570.111572" z="14136.340820" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1763.708374" z="14280.509766" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1739.371460" z="14339.244141" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1470.869019" z="14487.066406" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1426.647461" z="14444.478516" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1297.907593" z="14504.295898" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1360.359741" z="14545.887695" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1173.841919" z="14560.047852" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1064.075562" z="13910.153320" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1034.867554" z="13886.465820" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1005.648987" z="13873.033203" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1103.961426" z="13928.136719" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1154.977539" z="13950.899414" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1658.419556" z="14067.498047" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1750.572876" z="14044.790039" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1768.864258" z="14015.778320" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1601.817749" z="14463.527344" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1488.172241" z="14447.794922" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1297.402344" z="14451.820313" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1228.812134" z="14501.660156" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1232.951904" z="14599.342773" r="70"/>
+        <zone name="InfectedArmy" smin="2" smax="3" dmin="4" dmax="6" x="1285.060547" z="14529.792969" r="70"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1249.785034" z="14555.593750" r="70"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1734.543701" z="14186.652344" r="70"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1605.671753" z="14161.789063" r="70"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1616.000244" z="14438.926758" r="70"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1659.313477" z="13588.796875" r="70"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1560.886108" z="14407.190430" r="70"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1274.198364" z="14523.360352" r="70"/>
+        <zone name="InfectedArmyHard" smin="2" smax="3" dmin="4" dmax="6" x="1051.015137" z="14594.859375" r="70"/>
+    </territory>
+</territory-type>
